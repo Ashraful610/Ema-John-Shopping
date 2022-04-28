@@ -14,10 +14,11 @@
 */
 
 /*
-1 . hosting steps 
-2 . npm install -g firebase-tools
-3 . firebase login
-4 . firebase init
-5 . firebase deploy
+firebase hosting steps 
+1 . npm install -g firebase-tools (for one time your laptop)
+2 . firebase login (for one time )
+3. firebase init (one time for each project)
+4. npm run build (every time you want to deploy build your project)
+5 . firebase deploy  (every time you want to deploy build your project)
 
 */
